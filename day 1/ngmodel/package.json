@@ -1,0 +1,14 @@
+{
+  "name": "ngmodel",
+  "version": "1.1.2",
+  "description": "this is my first npm repo ",
+  "main": "ngmodel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ngmodel"
+  ],
+  "author": "montassar",
+  "license": "ISC"
+}
